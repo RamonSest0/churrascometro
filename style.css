@@ -90,3 +90,31 @@ input[type=number] {
     text-align:left;
     margin-left: 15%;
 }
+
+@media only screen and (max-width: 768px) {
+
+    /* Para mobile phones: */
+
+   .churras {
+       width: 80%;
+    }
+
+    h1 {
+        margin-bottom: 15px;
+    }
+
+    input {
+        padding: 6.5px;
+        margin-top: 7px;
+    }
+
+    button {
+        padding: 3px;
+    }
+
+    #result {
+        margin-top: 10px;
+        font-size: 0.96em;
+        margin-left: 12%;
+    }
+}
