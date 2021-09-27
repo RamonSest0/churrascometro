@@ -106,6 +106,7 @@ input[type=number] {
     input {
         padding: 6.5px;
         margin-top: 7px;
+        font-size: 0.9em;
     }
 
     button {
